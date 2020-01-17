@@ -128,7 +128,6 @@ Happy Learning!
 ## Resources
 
 - [The IDE in Browser][ibide]
-- [Ask a Question FAQ][aaq]
 
 [ibide]: https://help.learn.co/about-learn/navigating-learn/ide-in-browser
 [guide]: http://help.learn.co/the-learn-ide/the-basics-of-the-learn-ide/using-the-ide-versus-a-local-environment
